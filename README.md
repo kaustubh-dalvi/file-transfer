@@ -15,7 +15,7 @@ Git: Install Git to manage and push the project to GitHub.
 
 Setup and Installation
 1. Clone the Repository (or manually download files):
-git clone https://github.com/kaustubh-dalvi/file-transfer-app.git
+git clone https://github.com/kaustubh-dalvi/file-transfer.git
 cd file-transfer-app
 
 
